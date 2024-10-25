@@ -11,7 +11,7 @@ RobCheat is a powerful new executor for Roblox, providing a smooth, user-friendl
 
 ## Installation
 
-1. [Download RobCheat](https://example.com/download)
+1. Download the code zip
 2. Unzip the file and run `RobCheat.exe`.
 3. Follow the setup instructions to get started.
 
